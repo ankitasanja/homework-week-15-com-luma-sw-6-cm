@@ -1,0 +1,282 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10974691300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should add product to the shopping cart successfully",
+        "description": "",
+        "id": "men-test;user-should-add-product-to-the-shopping-cart-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1539509900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 591737900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on homepage",
+            "match": {
+              "location": "MenSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 840276500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I mouse hover on men menu",
+            "match": {
+              "location": "MenSteps.iMouseHoverOnMenMenu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 729233100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I mouse hover on bottoms",
+            "match": {
+              "location": "MenSteps.iMouseHoverOnBottoms()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2329049800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on pants",
+            "match": {
+              "location": "MenSteps.iClickOnPants()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3789700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I mouse hover on product name \"Cronus Yoga Pant\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cronus Yoga Pant",
+                  "offset": 31
+                }
+              ],
+              "location": "MenSteps.iMouseHoverOnProductName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 424695700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on size \"32\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "32",
+                  "offset": 17
+                }
+              ],
+              "location": "MenSteps.iClickOnSize(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 180052900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on color \"Black\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Black",
+                  "offset": 18
+                }
+              ],
+              "location": "MenSteps.iClickOnColor(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 84045900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on add to cart button",
+            "match": {
+              "location": "MenSteps.iClickOnAddToCartButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2285208600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should be able to verify the text \"You added Cronus Yoga Pant to your shopping cart\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "You added Cronus Yoga Pant to your shopping cart",
+                  "offset": 37
+                }
+              ],
+              "location": "MenSteps.iShouldBeAbleToVerifyTheText(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2000875300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on shopping cart link into message",
+            "match": {
+              "location": "MenSteps.iClickOnShoppingCartLinkIntoMessage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 229496100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I should be able to verify the text \"Shopping Cart.\" on men page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Shopping Cart.",
+                  "offset": 37
+                }
+              ],
+              "location": "MenSteps.iShouldBeAbleToVerifyTheTextOnMenPage(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 204838900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I should be able to verify the product name \"Cronus Yoga Pant\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cronus Yoga Pant",
+                  "offset": 45
+                }
+              ],
+              "location": "MenSteps.iShouldBeAbleToVerifyTheProductName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 117909500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I should be able to verify the product size 32",
+            "match": {
+              "arguments": [
+                {
+                  "val": "32",
+                  "offset": 44
+                }
+              ],
+              "location": "MenSteps.iShouldBeAbleToVerifyTheProductSize(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133107600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I should be able to verify the product colour \"Black\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Black",
+                  "offset": 47
+                }
+              ],
+              "location": "MenSteps.iShouldBeAbleToVerifyTheProductColour(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21700,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I should be able to add product to the shopping cart successfully",
+            "match": {
+              "location": "MenSteps.iShouldBeAbleToAddProductToTheShoppingCartSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@sanity"
+          },
+          {
+            "line": 5,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Men Test",
+    "description": "As a user I want to add product to shopping cart from men category page on software testing board website",
+    "id": "men-test",
+    "keyword": "Feature",
+    "uri": "men.feature"
+  }
+]

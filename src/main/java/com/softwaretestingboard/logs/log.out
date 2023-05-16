@@ -1,0 +1,104 @@
+2023-05-14 14:05:356 INFO  GearTestPage :77 - MouseHover on gearMenu 
+2023-05-14 14:05:179 INFO  GearTestPage :82 - Click on Bags 
+2023-05-14 14:05:536 INFO  GearTestPage :87 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-14 14:05:736 INFO  GearTestPage :92 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-14 14:05:11 INFO  GearTestPage :102 - Clear an element 
+2023-05-14 14:05:106 INFO  GearTestPage :97 - Change Qty 3 
+2023-05-14 14:05:190 INFO  GearTestPage :107 - Click on ‘Add to Cart’ Button. 
+2023-05-14 14:05:293 INFO  GearTestPage :113 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-14 14:05:681 INFO  GearTestPage :118 - Click on ‘shopping cart’
+2023-05-14 14:05:102 INFO  GearTestPage :123 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-14 14:05:256 INFO  GearTestPage :128 - Get text from the Qty '3' 
+2023-05-14 14:05:550 INFO  GearTestPage :133 - Get text from the product price ‘$135.00’ 
+2023-05-14 14:05:720 INFO  GearTestPage :148 - clearAnElementFromUpdatedShoppingCart
+2023-05-14 14:05:764 INFO  GearTestPage :143 - update the Quantity to '5' 
+2023-05-14 14:05:825 INFO  GearTestPage :138 - update the ShoppingCart 
+2023-05-14 14:05:892 INFO  GearTestPage :153 - Get text from the product price '$225.00’  
+2023-05-14 14:05:414 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-14 14:05:46 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-14 14:05:190 INFO  MenTestPage :82 - Clicking on Pants
+2023-05-14 14:05:417 INFO  MenTestPage :88 - MouseHover and click on cronusYogaPant 
+2023-05-14 14:05:736 INFO  MenTestPage :93 - MouseHover and click on colourBlack 
+2023-05-14 14:05:910 INFO  MenTestPage :98 - Clicking on addToCart
+2023-05-14 14:05:983 INFO  MenTestPage :107 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-14 14:05:755 INFO  GearTestPage :77 - MouseHover on gearMenu 
+2023-05-14 14:05:310 INFO  GearTestPage :82 - Click on Bags 
+2023-05-14 14:05:565 INFO  GearTestPage :87 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-14 14:05:664 INFO  GearTestPage :92 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-14 14:05:853 INFO  GearTestPage :102 - Clear an element 
+2023-05-14 14:05:989 INFO  GearTestPage :97 - Change Qty 3 
+2023-05-14 14:05:52 INFO  GearTestPage :107 - Click on ‘Add to Cart’ Button. 
+2023-05-14 14:05:184 INFO  GearTestPage :113 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-14 14:05:580 INFO  GearTestPage :118 - Click on ‘shopping cart’
+2023-05-14 14:05:970 INFO  GearTestPage :123 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-14 14:05:53 INFO  GearTestPage :128 - Get text from the Qty '3' 
+2023-05-14 14:05:200 INFO  GearTestPage :133 - Get text from the product price ‘$135.00’ 
+2023-05-14 14:05:284 INFO  GearTestPage :148 - clearAnElementFromUpdatedShoppingCart
+2023-05-14 14:05:458 INFO  GearTestPage :143 - update the Quantity to '5' 
+2023-05-14 14:05:509 INFO  GearTestPage :138 - update the ShoppingCart 
+2023-05-14 14:05:581 INFO  GearTestPage :153 - Get text from the product price '$225.00’  
+2023-05-14 14:05:854 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-14 14:05:616 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-14 14:05:771 INFO  MenTestPage :82 - Clicking on Pants
+2023-05-14 14:05:998 INFO  MenTestPage :88 - MouseHover and click on cronusYogaPant 
+2023-05-14 14:05:228 INFO  MenTestPage :93 - MouseHover and click on colourBlack 
+2023-05-14 14:05:409 INFO  MenTestPage :98 - Clicking on addToCart
+2023-05-14 14:05:493 INFO  MenTestPage :107 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-14 14:05:77 INFO  MenTestPage :103 - Clicking on shoppingCartLink
+2023-05-14 14:05:697 INFO  MenTestPage :112 - Get text from shoppingCart ‘Shopping Cart.’
+2023-05-14 14:05:834 INFO  MenTestPage :117 - Get text from productName ‘Cronus Yoga Pant’
+2023-05-14 14:05:19 INFO  MenTestPage :123 - Get text from productSize ‘32’
+2023-05-14 14:05:96 INFO  MenTestPage :128 - Get text from productColour ‘Black’ 
+2023-05-14 14:05:920 INFO  GearTestPage :77 - MouseHover on gearMenu 
+2023-05-14 14:05:535 INFO  GearTestPage :82 - Click on Bags 
+2023-05-14 14:05:916 INFO  GearTestPage :87 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-14 14:05:423 INFO  GearTestPage :92 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-14 14:05:664 INFO  GearTestPage :102 - Clear an element 
+2023-05-14 14:05:792 INFO  GearTestPage :97 - Change Qty 3 
+2023-05-14 14:05:10 INFO  GearTestPage :107 - Click on ‘Add to Cart’ Button. 
+2023-05-14 14:05:193 INFO  GearTestPage :113 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-14 14:05:696 INFO  GearTestPage :118 - Click on ‘shopping cart’
+2023-05-14 14:05:385 INFO  GearTestPage :123 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-14 14:05:639 INFO  GearTestPage :128 - Get text from the Qty '3' 
+2023-05-14 14:05:990 INFO  GearTestPage :133 - Get text from the product price ‘$135.00’ 
+2023-05-14 14:05:208 INFO  GearTestPage :148 - clearAnElementFromUpdatedShoppingCart
+2023-05-14 14:05:257 INFO  GearTestPage :143 - update the Quantity to '5' 
+2023-05-14 14:05:341 INFO  GearTestPage :138 - update the ShoppingCart 
+2023-05-14 14:05:412 INFO  GearTestPage :153 - Get text from the product price '$225.00’  
+2023-05-14 14:05:352 INFO  WomenTestPage :44 - Mouse hover on women menu
+2023-05-14 14:05:12 INFO  WomenTestPage :49 - Mouse hover on tops
+2023-05-14 14:05:174 INFO  WomenTestPage :54 - Click on jackets
+2023-05-14 14:05:375 INFO  WomenTestPage :59 - Get selection by sorting filter
+2023-05-14 14:05:874 INFO  WomenTestPage :69 - Get the product name verification
+2023-05-14 14:05:11 INFO  WomenTestPage :69 - Get the product name verification
+2023-05-14 14:05:144 INFO  WomenTestPage :69 - Get the product name verification
+2023-05-14 14:05:02 INFO  WomenTestPage :44 - Mouse hover on women menu
+2023-05-14 14:05:702 INFO  WomenTestPage :49 - Mouse hover on tops
+2023-05-14 14:05:853 INFO  WomenTestPage :54 - Click on jackets
+2023-05-14 14:05:967 INFO  WomenTestPage :59 - Get selection by sorting filter
+2023-05-14 14:05:615 INFO  WomenTestPage :69 - Get the product name verification
+2023-05-14 14:05:757 INFO  WomenTestPage :69 - Get the product name verification
+2023-05-14 14:05:889 INFO  WomenTestPage :69 - Get the product name verification
+2023-05-14 14:05:23 INFO  WomenTestPage :44 - Mouse hover on women menu
+2023-05-14 14:05:676 INFO  WomenTestPage :49 - Mouse hover on tops
+2023-05-14 14:05:831 INFO  WomenTestPage :54 - Click on jackets
+2023-05-14 14:05:827 INFO  WomenTestPage :59 - Get selection by sorting filter
+2023-05-15 14:05:106 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-15 14:05:813 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-15 14:05:07 INFO  MenTestPage :82 - Clicking on Pants
+2023-05-15 14:05:499 INFO  MenTestPage :88 - MouseHover and click on cronusYogaPant 
+2023-05-15 14:05:975 INFO  MenTestPage :93 - MouseHover and click on colourBlack 
+2023-05-15 14:05:192 INFO  MenTestPage :98 - Clicking on addToCart
+2023-05-15 14:05:336 INFO  MenTestPage :107 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-15 14:05:107 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-15 14:05:885 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-15 14:05:616 INFO  MenTestPage :82 - Clicking on Pants
+2023-05-15 14:05:949 INFO  MenTestPage :88 - MouseHover and click on cronusYogaPant 
+2023-05-15 14:05:377 INFO  MenTestPage :93 - MouseHover and click on colourBlack 
+2023-05-15 14:05:571 INFO  MenTestPage :98 - Clicking on addToCart
+2023-05-15 14:05:648 INFO  MenTestPage :107 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-15 14:05:935 INFO  MenTestPage :103 - Clicking on shoppingCartLink
+2023-05-15 14:05:936 INFO  MenTestPage :112 - Get text from shoppingCart ‘Shopping Cart.’
+2023-05-15 14:05:168 INFO  MenTestPage :117 - Get text from productName ‘Cronus Yoga Pant’
+2023-05-15 14:05:374 INFO  MenTestPage :123 - Get text from productSize ‘32’
+2023-05-15 14:05:493 INFO  MenTestPage :128 - Get text from productColour ‘Black’ 
